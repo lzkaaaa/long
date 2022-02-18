@@ -12,7 +12,8 @@ var multiP = [
 
 var a = [];
 
-// them abc
+// them abc123421
+
 (function creatP() {
     a = multiP.map(e => `<p id = ${e.id}> </p>`)
 })()
